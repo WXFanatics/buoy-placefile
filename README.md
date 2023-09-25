@@ -6,7 +6,7 @@ Modified Placefiles:
 
 [Buoys.php](https://github.com/ktrue/buoy-placefile/blob/main/buoys.php) - Added the ability to adjust distance using the ?maxDistance= parameter for programs like Supercell Wx. Added the max distance currently set to the title of the placefile.  Removed lat/long indention. Capitalized the g in gust
 
-![supercell-wx_7VJQeXYUQB](https://github.com/WXFanatics/buoy-placefile/assets/96398274/81f86ff8-1e76-4bb2-b903-76ad00d9fbdc)
+![supercell-wx_4WwU0iCaKn](https://github.com/WXFanatics/buoy-placefile/assets/96398274/d88a0449-0fcc-455b-879a-51bf5f068a91)
 
 # buoy-placefile
 ## GRLevelX placefile generator for NOAA NDBC buoy data
