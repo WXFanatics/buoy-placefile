@@ -1,3 +1,13 @@
+## This is a fork of [https://github.com/ktrue/buoy-placefile](https://github.com/ktrue/buoy-placefile)
+
+I will most likely create and/or modify the placefiles with my personal touches.
+
+Modified Placefiles:
+
+[Buoys.php](https://github.com/ktrue/buoy-placefile/blob/main/buoys.php) - Added the ability to adjust distance using the ?maxDistance= parameter for programs like Supercell Wx. Added the max distance currently set to the title of the placefile.  Removed lat/long indention. Capitalized the g in gust
+
+![supercell-wx_7VJQeXYUQB](https://github.com/WXFanatics/buoy-placefile/assets/96398274/81f86ff8-1e76-4bb2-b903-76ad00d9fbdc)
+
 # buoy-placefile
 ## GRLevelX placefile generator for NOAA NDBC buoy data
 
@@ -18,7 +28,6 @@ The *buoys.php* script is to be accessed by including the website URL in the GRL
 This script reads the two files from www.ndbc.noaa.gov and creates 
 - *buoy-info-inc.php* file which contains the parsed and formatted metadata for each buoy and
 - *buoy-data-inc.php* file which contains the parsed and formatted observation data for each buoy.
-
 
 It should be run by cron every 5 minutes to keep the data current.  Keep in mind that
 many buoys report only once per hour so loading more often won't result in 'new' data.
