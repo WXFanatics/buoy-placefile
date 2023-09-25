@@ -1,6 +1,6 @@
 ## This is a fork of [https://github.com/ktrue/buoy-placefile](https://github.com/ktrue/buoy-placefile)
 
-I will most likely create and/or modify the placefiles with my personal touches.
+I will most likely modify the placefiles with my personal touches.
 
 Modified Placefiles:
 
